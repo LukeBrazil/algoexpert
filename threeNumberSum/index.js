@@ -25,6 +25,6 @@ function threeNumberSum(array, targetSum) {
         }
     }
     return solutionArray
-}
+ }
 
 threeNumberSum(array, targetSum);
